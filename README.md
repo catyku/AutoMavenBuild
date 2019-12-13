@@ -2,7 +2,7 @@
 github maven project auto build war file use docker containter  
 
 > your need install docker-ce 
-* you can generator github ssh key to `private_key` file with below url
+* you can generator github ssh key to `private_key` file with below url  
   https://help.github.com/en/enterprise/2.17/user/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 * modify your github account and project name to `run.sh`
