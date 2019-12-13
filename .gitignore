@@ -1,3 +1,5 @@
 m2/*
 !m2/.keep
 
+webapps/*
+!webapps/.keep
